@@ -1,5 +1,7 @@
-#python3
+#!/usr/bin/env python3
+
 ### Simple script for dropping sequences below a specific length
+### I just created this script to drop reads below a specific length from my ONT data.
 
 from Bio import SeqIO
 
